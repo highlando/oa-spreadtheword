@@ -6,7 +6,7 @@ What I want to sent to all my colleagues at the Max Planck Institute in Magdebur
  - a call for considering Open Access
  - a primer with basic facts and links
 
-Please reuse and improve.
+Please reuse and improve. Check out the releases for different versions.
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
