@@ -24,11 +24,11 @@ And it can be less
 *Open Access is highly encouraged, supported, and appreciated by the Max
 Planck Society.*
 
-The Max Planck Digital Library wants to 'make Open Access publishing as easy as possible for Max Planck authors' by maintaining
+The Max Planck Digital Library wants to 'make Open Access publishing as easy as possible for Max Planck authors' by maintaining, among others,
 
- - agreements with Open Access Publishers 
- - MPG.PuRe -- a repository for Open Access publications
- - EDMOND -- a repository for Open Access data collections
+ - [agreements with Open Access Publishers](http://www.mpdl.mpg.de/en/services/service-catalog/50)
+ - [MPG.PuRe](http://pubman.mpdl.mpg.de/) -- a repository for Open Access publications
+ - [EDMOND](http://edmond.mpdl.mpg.de/imeji/) -- a repository for Open Access data collections
 
 
 For more and concrete information
@@ -40,6 +40,6 @@ For more and concrete information
 
 For thoughts and opinions check the blogs
 ---
- - Ross Mournce
- - brembs
- - twitter hashtag #openaccess
+ - by [Ross Mournce](http://rossmounce.co.uk/)
+ - by [Bj&ouml;rn Brembs](http://bjoern.brembs.net/)
+ - on [twitter](https://twitter.com/search?q=#openaccess) under the hashtag #openaccess
