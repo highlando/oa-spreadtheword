@@ -42,4 +42,4 @@ For thoughts and opinions check the blogs
 ---
  - by [Ross Mournce](http://rossmounce.co.uk/)
  - by [Bj&ouml;rn Brembs](http://bjoern.brembs.net/)
- - on [twitter](http://search.twitter.com/search.rss?q=%23openaccess) under the hashtag #openaccess
+ - on [twitter](https://twitter.com/search?q=#openaccess&src=typd) under the hashtag #openaccess
