@@ -1,7 +1,10 @@
 Spreading the word on Open Access
 ---
 
-The mails I have sent to my colleagues at the Max Planck Institute in Magdeburg.
+What I want to sent to all my colleagues at the Max Planck Institute in Magdeburg.
+
+ - a call for considering Open Access
+ - a primer with basic facts and links
 
 Please reuse and improve.
 
