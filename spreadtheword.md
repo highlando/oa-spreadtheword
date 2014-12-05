@@ -8,15 +8,14 @@ want to spread the word.
  - every scientific community will benefit from Open Access
  - Open Access will take over and the sooner the better
  - MPG and many funders encourage and appreciate Open Access publishing
+ - there is a strong initiative *DORA* pushing for alternative metrics for measuring scientific quality and impact
 
 
 However, and also this was common sense, every early career researcher
-should be aware of that his scientific abilities may well be assessed by
-the formula
+should be aware of concerns about Open Access, as Open Access
 
-   `academic merits = Sum of ( Publication  x  Journal Impact Factor )`
-
-that is taylored to the established way of publishing.
+ - does not fit well the *impact factor* which plays an important role in assessing scientific work
+ - is 
 
 
 So, hear the message and
