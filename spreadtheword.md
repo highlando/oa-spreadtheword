@@ -10,13 +10,12 @@ want to spread the word.
  - MPG and many funders encourage and appreciate Open Access publishing
  - there is a strong initiative *DORA* pushing for alternative metrics for measuring scientific quality and impact
 
-
 However, and also this was common sense, every early career researcher
-should be aware of concerns about Open Access, as Open Access
+should be aware of concerns about Open Access, as Open Access publishing
 
- - does not fit well the *impact factor* which plays an important role in assessing scientific work
- - is 
-
+ - does not fit well the *impact factor* which plays a prominent role in assessing scientific work
+ - is not broadly acknowledged for meeting *high scientific standards*
+ - is still evolving 
 
 So, hear the message and
 
