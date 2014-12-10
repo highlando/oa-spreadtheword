@@ -1,7 +1,7 @@
 Open Access publishing in its most basic form is
 ---
 
- - free accessibility of a publication under a proper license
+ - open accessibility of a publication under a proper license
 
 
 Open Access can be much more like
@@ -36,7 +36,7 @@ For more and concrete information
 
  - visit the [MPG digital library website](http://www.mpdl.mpg.de/)
  - visit your local library staff
- - visit me
+ - visit us 
 
 For thoughts and opinions check the blogs
 ---
