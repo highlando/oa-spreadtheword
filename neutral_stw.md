@@ -1,6 +1,6 @@
 Dear colleagues,
 
-I have just returned from the Open Access Ambassador conference and I
+we have just returned from the Open Access Ambassador conference and we
 want to spread the word.
 
  - Open Access is growing fast
@@ -14,5 +14,8 @@ However, one should be aware of concerns about Open Access publishing, as Open A
 
 So, what to do? **Get informed about Open Access!**
 
-Get back to me for any answer or opinion,
-Jan
+
+Get back to us for any answer or opinion,
+
+Robert Flassig@mpi
+Jan Heiland@mpi
