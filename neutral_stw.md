@@ -21,5 +21,5 @@ So, what to do? **Get informed about Open Access!**
 
 Get back to us for any answer or opinion,
 
-Robert Flassig@mpi-magdeburg.mpg.de
-Jan Heiland@mpi-magdeburg.mpg.de
+Robert Flassig@mpi
+Jan Heiland@mpi
